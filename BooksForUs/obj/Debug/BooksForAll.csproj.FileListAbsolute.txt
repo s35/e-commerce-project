@@ -1,0 +1,42 @@
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\csc.exe
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\vbc.exe
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\BooksForUs.dll.config
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\BooksForUs.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\BooksForUs.pdb
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\obj\Debug\BooksForUs.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\obj\Debug\BooksForUs.pdb
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\bin\AjaxControlToolkit.dll
+C:\Users\Saurav\Documents\Visual Studio 2015\Projects\BooksForUs\BooksForUs\obj\Debug\BooksForAll.csprojResolveAssemblyReference.cache
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\csc.exe
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\vbc.exe
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\AjaxControlToolkit.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\BooksForAll.dll.config
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\BooksForAll.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\bin\BooksForAll.pdb
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\obj\Debug\BooksForAll.dll
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\obj\Debug\BooksForAll.pdb
+C:\Users\Saurav\Documents\GitHub\iconics_Project\BooksForUs\obj\Debug\BooksForAll.csprojResolveAssemblyReference.cache

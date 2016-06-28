@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="myConn-Web.config Connection String" description="myConn Connection String used in web.config by the application to access the database." defaultValue="Data Source=SAURAV-PC; Initial Catalog=BooksForAllDB; Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Saurav\\Documents\\Visual\ Studio\ 2015\\Projects\\BooksForUs\\BooksForUs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='myConn']/@connectionString" />
+  </parameter>
+</parameters>

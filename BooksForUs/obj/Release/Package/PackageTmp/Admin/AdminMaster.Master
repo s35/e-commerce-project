@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.Master.cs" Inherits="BooksForUs.Admin.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" style="align-content:center">
+<head runat="server">
+    <title></title>
+
+    <style>
+        #container{
+            align-content:center;
+            text-align:center;
+        }
+
+        table{
+            border: medium;
+            border-color: aliceblue;
+        }
+
+    </style>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+        <table style="width: 945px;" align="center">
+
+            <tr>
+                <td style="text-align:center;"><h2> - Admin Dashboard -</h2></td>
+            </tr>
+            <!-- Admin Heading -->
+            <tr style="text-align:center;">            
+                <td> <a href="AddProducts.aspx"> Add Title </a> - <a href="AddGenre.aspx">Add Category </a> - View Orders</td>        
+            </tr>
+            <!-- Categories Options-->
+
+            <!-- Actual Form > Main Content -->
+            <tr>
+                <td>
+                <table style=  "width: 900px;" class="table">
+
+                    <tr>
+                        <td>
+                            <asp:Panel IF="pnlCategories" runat="server">
+                                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                </asp:ContentPlaceHolder>
+
+                            </asp:Panel>
+                        </td>
+                    </tr>
+
+                </table>
+
+                </td>
+            </tr>
+
+
+     
+            <tr style="text-align:center">
+                <td>Books for All - CopyRight 2015</td>
+            </tr>
+            <!-- Footer -->
+
+        </table>
+</body>
+</html>
